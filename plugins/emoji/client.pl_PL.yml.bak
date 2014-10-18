@@ -1,6 +1,6 @@
-th_TH:
+pl_PL:
   admin_js:
     admin:
       site_settings:
         categories:
-          plugins: "Õ’‚¡®‘"
+          plugins: "Wtyczki"
